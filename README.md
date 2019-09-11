@@ -1,3 +1,17 @@
+
+-- UNSUPPORTED --
+=================
+
+This is a public fork of https://github.com/katbyte/chef-jira which is now unmaintained. This cookbook should not be used by anyone. This fork only has minor modifications made for this org's needs.
+
+
+
+
+-------------------------------------------------------
+
+
+
+
 Jira Cookbook
 ==================
 [![Chef cookbook](https://img.shields.io/cookbook/v/jira.svg)](https://supermarket.chef.io/cookbooks/jira)
