@@ -10,7 +10,7 @@ user node['jira']['user'] do
   comment 'JIRA Service Account'
   home node['jira']['home_path']
   shell '/bin/bash'
-  manage_home true
+  manage_home false
   system true
   action :create
 end
